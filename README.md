@@ -7,5 +7,7 @@ This interactive Tableau dashboard analyzes year-over-year (YoY) sales performan
 ✅ Custom Geographical Analysis (State-wise Sales & Profit comparison with an Ancom Chart)
 ✅ Segment-wise Monthly Sales Breakdown (Consumer, Corporate, Home Office)
 
+👉 Check out the project [Sales Dashboard](https://public.tableau.com/views/sales_analysis_17424907462130/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 👉 Check out the project [https://public.tableau.com/views/sales_analysis_17424907462130/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 
